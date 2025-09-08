@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify, current_app
 import os
 
-# Import our services and utilities
+
 from app.utils.file_utils import allowed_file, clean_text
 from app.services.pdf_service import PDFService
 from app.services.ai_service import AIService
@@ -36,11 +36,11 @@ def analyze_resume():
             else:
                 resume_text = file.read().decode('utf-8')
             
-            # Clean the text
+           
             resume_text = clean_text(resume_text)
             job_description = clean_text(job_description)
             
-            # Analyze with AI
+            
             ai_service = AIService()
             analysis_result = ai_service.analyze_resume_job_match(resume_text, job_description)
             

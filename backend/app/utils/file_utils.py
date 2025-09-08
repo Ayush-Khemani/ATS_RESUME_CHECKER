@@ -8,6 +8,6 @@ def allowed_file(filename):
 
 def clean_text(text):
     """Clean and normalize text for better analysis"""
-    # Remove extra whitespace and newlines
+   
     text = re.sub(r'\s+', ' ', text)
     return text.strip()

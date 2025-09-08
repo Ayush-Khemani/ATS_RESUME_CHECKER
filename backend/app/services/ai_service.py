@@ -9,7 +9,7 @@ class AIService:
     def analyze_resume_job_match(self, resume_text, job_description):
         """Complete resume analysis - EXACT SAME LOGIC"""
         try:
-            # Optimize inputs for cost efficiency
+           
             resume_text = resume_text[:1500]  # ~500 tokens
             job_description = job_description[:900]  # ~300 tokens
             
