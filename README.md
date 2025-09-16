@@ -42,5 +42,5 @@ ATS Resume Checker is an intelligent application designed to help job seekers op
 
 **Ayush Khemani**
 - GitHub: [@Ayush-Khemani](https://github.com/Ayush-Khemani)
-- LinkedIn: [](https://www.linkedin.com/in/ayushkumar5/)
+- LinkedIn: [Ayush Kumar](https://www.linkedin.com/in/ayushkumar5/)
 
