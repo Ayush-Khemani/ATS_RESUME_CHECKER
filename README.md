@@ -11,9 +11,7 @@ ATS Resume Checker is an intelligent application designed to help job seekers op
 - **ATS Compatibility Score**: Get a percentage match score indicating ATS friendliness
 - **Keyword Analysis**: Identify missing keywords and skills from job requirements
 - **Detailed Feedback**: Receive actionable suggestions for resume improvement
-- **Section Analysis**: Check for essential resume sections and formatting
 - **Skills Gap Identification**: Highlight skills and qualifications you might be missing
-- **Export Results**: Download analysis reports for future reference
 
 ##  Demo
 
